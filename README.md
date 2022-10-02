@@ -11,12 +11,12 @@ My journey through Paul Hudson's [100 Days of SwiftUI][100-days-of-swiftui] lear
 
 ## Projects
 
-| Project                   | Repo                                             |
-|---------------------------|--------------------------------------------------|
-| Project 1                 | [WeSplit][we-split]                              |
-| Challenge Project         | [Temperature Converter][temperature-converter]   |
-| Project 2                 | [Guess the Flag][guess-the-flag]                 |
-| Milestone: Projects 1-3   | [Rock Paper Scissors][rock-paper-scissors]       |
+| Project                     | Repo                                             |
+|-----------------------------|--------------------------------------------------|
+| Project 1                   | [WeSplit][we-split]                              |
+| Challenge Project (Day 19)  | [Temperature Converter][temperature-converter]   |
+| Project 2                   | [Guess the Flag][guess-the-flag]                 |
+| Challenge Project (Day 25)  | [Rock Paper Scissors][rock-paper-scissors]       |
 
 
 [we-split]: https://github.com/neurothrone/wesplit
