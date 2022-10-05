@@ -19,6 +19,7 @@ My journey through Paul Hudson's [100 Days of SwiftUI][100-days-of-swiftui] lear
 | Challenge Project (Day 25)  | [Rock Paper Scissors][rock-paper-scissors]       |
 | Project 4                   | [Better Rest][better-rest]                       |
 | Project 5                   | [Word Scramble][word-scramble]                   |
+| Challenge Project (Day 35)  | [Times Tables][times-tables]                     |
 
 
 [we-split]: https://github.com/neurothrone/wesplit
@@ -27,3 +28,4 @@ My journey through Paul Hudson's [100 Days of SwiftUI][100-days-of-swiftui] lear
 [rock-paper-scissors]: https://github.com/neurothrone/rock-paper-scissors
 [better-rest]: https://github.com/neurothrone/BetterRest
 [word-scramble]: https://github.com/neurothrone/word-scramble
+[times-tables]: https://github.com/neurothrone/times-tables
