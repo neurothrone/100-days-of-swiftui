@@ -21,6 +21,7 @@ My journey through Paul Hudson's [100 Days of SwiftUI][100-days-of-swiftui] lear
 | Project 5                   | [Word Scramble][word-scramble]                   |
 | Challenge Project (Day 35)  | [Times Tables][times-tables]                     |
 | Project 7                   | [iExpense][iexpense]                             |
+| Project 8                   | [Moonshot][moonshot]                             |
 
 
 [we-split]: https://github.com/neurothrone/wesplit
@@ -31,3 +32,4 @@ My journey through Paul Hudson's [100 Days of SwiftUI][100-days-of-swiftui] lear
 [word-scramble]: https://github.com/neurothrone/word-scramble
 [times-tables]: https://github.com/neurothrone/times-tables
 [iexpense]: https://github.com/neurothrone/iexpense
+[moonshot]: https://github.com/neurothrone/moonshot
