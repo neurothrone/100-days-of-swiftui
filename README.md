@@ -22,6 +22,7 @@ My journey through Paul Hudson's [100 Days of SwiftUI][100-days-of-swiftui] lear
 | Challenge Project (Day 35)  | [Times Tables][times-tables]                     |
 | Project 7                   | [iExpense][iexpense]                             |
 | Project 8                   | [Moonshot][moonshot]                             |
+| Project 10                  | [Cupcake Corner][cupcake-corner]                 |
 
 
 [we-split]: https://github.com/neurothrone/wesplit
@@ -33,3 +34,4 @@ My journey through Paul Hudson's [100 Days of SwiftUI][100-days-of-swiftui] lear
 [times-tables]: https://github.com/neurothrone/times-tables
 [iexpense]: https://github.com/neurothrone/iexpense
 [moonshot]: https://github.com/neurothrone/moonshot
+[cupcake-corner]: https://github.com/neurothrone/cupcake-corner
